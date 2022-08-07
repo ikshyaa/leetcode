@@ -8,7 +8,6 @@ class Solution {
 //         return trail;
         
         int temp = 5;
-        int x= n;
         
         while(temp <= n ) {
             trail = trail + n / temp;
