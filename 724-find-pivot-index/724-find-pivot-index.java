@@ -15,15 +15,16 @@ class Solution {
             totalSum -= nums[i];
             
             
-            
+            }
+        return -1; 
+        
         //     int rightSum = 0;
         //     for(int j = nums.length-1; j>i; j-- ) {
         //         rightSum += nums[j];
         //     }
         //     if(leftSum ==rightSum) return i;
         //     leftSum += nums[i]; 
-        }
-        return -1;
+       
         
         
 //         for(int i=0; i< nums.length; i++) {
