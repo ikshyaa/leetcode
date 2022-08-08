@@ -14,29 +14,5 @@ class Solution {
 }
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-//         int moveCount = 0;
-//         for(int i=0 ; i<nums.length-2; i++) {
-//             int temp = 1;
-//             int loop = 0;
-            
-//             while(nums[i]==0 || moveCount!=loop) {
-//                 nums[i] = nums[i+temp];
-//                 temp ++; 
-//                 moveCount ++;
-//                 loop++;
-//             }
-//         }
 
-//     }
-// }
+        
