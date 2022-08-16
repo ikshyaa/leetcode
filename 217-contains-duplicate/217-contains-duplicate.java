@@ -8,7 +8,7 @@ class Solution {
         // }
         // return false; 
         
-        HashSet<Integer> set = new HashSet();
+      Set<Integer> set = new HashSet();
         for(int i: nums) {
             if(set.contains(i)) return true;
             else set.add(i);
